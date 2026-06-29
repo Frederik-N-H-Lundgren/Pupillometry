@@ -1,0 +1,9 @@
+Environment Information
+==============================
+
+Python version : 3.13.7
+Python executable : l:\Auditdata\CONNECT-ME\DTU\FrederikWeinan_Thesis\venv_thesis\Scripts\python.exe
+Operating system : Windows 11
+OS version : 10.0.22631
+Architecture : AMD64
+Processor : Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
