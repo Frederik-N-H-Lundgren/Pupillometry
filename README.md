@@ -21,7 +21,7 @@ The thesis investigates three interconnected aspects of quantitative pupillometr
 
 The repository is organized into folders corresponding to the three main research topics. Each folder contains the primary Jupyter notebooks used in the analyses.
 
-Additional exploratory analyses, supplementary notebooks, and intermediate work can be found in the `Final/` directory.
+Additional exploratory analyses, supplementary notebooks, and intermediate work can be found in the Data_exploration` folder.
 
 ## Data availability
 
